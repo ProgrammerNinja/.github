@@ -10,11 +10,21 @@ Welcome to **Programmer Ninja by RH**, a vibrant community of hobbyist programme
 At Programmer Ninja, we focus on a variety of tech-related activities, including:
 
 ### Arduino Programming
-![Arduino Projects](https://via.placeholder.com/150)
+![Arduino Projects](https://github.com/ProgrammerNinja/.github/blob/main/img/AD.jpg)
 - Dive into the world of microcontrollers and embedded systems.
 - Work on exciting Arduino projects, from simple LED blinkers to complex IoT devices.
 - Share your projects, collaborate on ideas, and learn from others.
-
+- Dive into the world of microcontrollers and embedded systems.
+- Work on exciting Arduino projects, from simple LED blinkers to complex IoT devices.
+- Share your projects, collaborate on ideas, and learn from others.
+![Arduino Projects](https://github.com/ProgrammerNinja/.github/blob/main/img/AD2.jpg)
+- Hands-On Learning: Get practical experience with sensors, actuators, and various modules to build interactive and functional prototypes.
+- Project Showcases: Display your Arduino creations in our community showcase, and get feedback and suggestions from peers.
+- Workshops and Tutorials: Participate in online workshops and follow step-by-step tutorials designed to help you master the fundamentals and advanced concepts of Arduino programming.
+- Innovative Solutions: Explore creative ways to solve real-world problems using Arduino. From home automation systems to wearable technology, the possibilities are endless.
+- Resource Library: Access a comprehensive library of code snippets, circuit diagrams, and detailed project documentation to assist you in your learning journey.
+- Community Support: Join discussions in our forums where you can ask questions, share insights, and get help from experienced Arduino enthusiasts.
+- Open Source Projects: Contribute to open-source Arduino projects or start your own, fostering a spirit of collaboration and continuous improvement.
 ### Problem Solving
 ![Problem Solving](https://via.placeholder.com/150)
 - Engage in coding challenges that hone your problem-solving skills.
