@@ -26,17 +26,32 @@ At Programmer Ninja, we focus on a variety of tech-related activities, including
 - Community Support: Join discussions in our forums where you can ask questions, share insights, and get help from experienced Arduino enthusiasts.
 - Open Source Projects: Contribute to open-source Arduino projects or start your own, fostering a spirit of collaboration and continuous improvement.
 ### Problem Solving
-![Problem Solving](https://via.placeholder.com/150)
+![Problem Solving](https://github.com/ProgrammerNinja/.github/blob/main/img/PS3.jpg)
 - Engage in coding challenges that hone your problem-solving skills.
 - Participate in discussions and collaborative efforts to tackle real-world problems.
 - Enhance your logical thinking and algorithmic skills through peer interaction.
-
+- Troubleshooting circuit desing.
+![Problem Solving](https://github.com/ProgrammerNinja/.github/blob/main/img/PS2.jpg)
+- Finding bugs doing recon.
+- Learning through Problem Solving.
+Learning trhough breaking and fixing and also trial and error. we are constantly improving and leaning through this methos.
 ### Network Programming
-![Network Programming](https://via.placeholder.com/150)
+![Network Programming](https://github.com/ProgrammerNinja/.github/blob/main/img/NP3.jpg)
 - Explore the intricacies of network programming.
 - Develop applications that communicate over the internet.
 - Learn about protocols, sockets, and network security.
-
+- Develop applications that communicate over the internet.
+- Learn about protocols, sockets, and network security.
+- Fundamentals of Networking: Gain a solid understanding of basic networking concepts such as TCP/IP, DNS, HTTP/HTTPS, and other essential protocols.
+![Network Programming](https://github.com/ProgrammerNinja/.github/blob/main/img/NP2.jpg)
+- Wireless Networking: Learn about wireless networking technologies, including WiFi standards, wireless security, and troubleshooting common wireless issues.
+- IoT Networking: Develop skills to network IoT devices. Understand how to handle the unique challenges posed by the large scale and diverse nature of IoT networks.
+- Cloud Networking: Explore how networking works in the cloud. Topics include virtual networks, cloud security, and the integration of on-premises and cloud networks.
+- Automation and Scripting: Automate network configuration and management tasks using scripting languages like Python. Learn about tools like Ansible for network automation.
+- Performance Tuning: Techniques for optimizing network performance, including load balancing, quality of service (QoS), and traffic shaping.
+- Network Design: Understand principles of designing scalable and resilient networks. Learn about network topologies, redundancy, and failover mechanisms.
+- Collaboration Projects: Engage in projects that involve setting up and troubleshooting complex network configurations, encouraging teamwork and knowledge sharing.
+- Interactive Workshops: Participate in hands-on workshops where you can practice network setup, configuration, and troubleshooting in real-time.
 ### Computer Troubleshooting
 ![Computer Troubleshooting](https://via.placeholder.com/150)
 - Master the art of diagnosing and fixing computer issues.
