@@ -7,7 +7,7 @@
 Welcome to **Programmer Ninja by RH**, a vibrant community of hobbyist programmers, tech enthusiasts, and problem solvers. Our organization is dedicated to fostering a collaborative environment where like-minded individuals can explore, learn, and innovate in the world of programming, electronics, and IT troubleshooting.
 
 ## What We Do
-At Programmer Ninja by RH, we focus on a variety of tech-related activities, including:
+At Programmer Ninja, we focus on a variety of tech-related activities, including:
 
 ### Arduino Programming
 ![Arduino Projects](https://via.placeholder.com/150)
@@ -46,15 +46,15 @@ We welcome everyone, from beginners to seasoned experts. Here’s how you can ge
 - **Engage in Discussions:** Participate in forums and issue trackers to help solve problems and share insights.
 - **Attend Events:** Join our online meetups, workshops, and hackathons to connect with other members and learn new skills.
 
-## Why Choose Programmer Ninja by RH?
+## Why Choose Programmer Ninja?
 - **Community-Driven:** We are a community-first organization, valuing each member's input and fostering a culture of mutual support.
 - **Diverse Expertise:** Benefit from the wide range of expertise within our community, from software development to hardware tinkering and IT troubleshooting.
 - **Resource-Rich:** Access a plethora of resources including code repositories, documentation, and a helpful community ready to assist you.
 
 ## Connect With Us
 Stay connected and up-to-date with our latest projects and events:
-- **GitHub:** [Programmer Ninja by RH GitHub](https://github.com/ProgrammerNinjaRH)
-- **Forum:** [Programmer Ninja by RH Forum](#)
+- **GitHub:** [Programmer Ninja GitHub](https://github.com/Programmerninja)
+- **Forum:** [Programmer Ninja Forum](#)
 - **Social Media:** Follow us on [Twitter](#), [LinkedIn](#), and [Facebook](#) for the latest news and updates.
 
-Join **Programmer Ninja by RH** today and become part of a dynamic and innovative community where your passion for technology can flourish. Let’s learn, build, and solve problems together!
+Join **Programmer Ninja ** today and become part of a dynamic and innovative community where your passion for technology can flourish. Let’s learn, build, and solve problems together!
