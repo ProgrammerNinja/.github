@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Welcome to Programmer Ninja by RH</h1>
 <h2 align="center"> About Us</h2>
-Welcome to **Programmer Ninja by RH**, a vibrant community of hobbyist programmers, tech enthusiasts, and problem solvers. Our organization is dedicated to fostering a collaborative environment where like-minded individuals can explore, learn, and innovate in the world of programming, electronics, and IT troubleshooting.
+Welcome to Programmer Ninja by RH, a vibrant community of hobbyist programmers, tech enthusiasts, and problem solvers. Our organization is dedicated to fostering a collaborative environment where like-minded individuals can explore, learn, and innovate in the world of programming, electronics, and IT troubleshooting.
 
 <h2 align="center"> What We Do </h2>
 At Programmer Ninja, we focus on a variety of tech-related activities, including:
@@ -80,23 +80,23 @@ Learning trhough breaking and fixing and also trial and error. we are constantly
 
 <h2 align="center"> Our Mission </h2>
 Our mission is to create a supportive and resourceful platform where members can:
-- **Learn:** Access a wealth of knowledge through shared projects, tutorials, and discussions.
-- **Collaborate:** Work together on exciting projects and challenges.
-- **Grow:** Develop new skills and enhance existing ones in a community that values continuous learning.
+- Learn: Access a wealth of knowledge through shared projects, tutorials, and discussions.
+- Collaborate: Work together on exciting projects and challenges.
+- Grow: Develop new skills and enhance existing ones in a community that values continuous learning.
 
 <h2 align="center"> Get Involved </h2>
 We welcome everyone, from beginners to seasoned experts. Here’s how you can get involved:
-- **Join Our Projects:** Browse our repositories and contribute to ongoing projects or start your own.
-- **Share Your Knowledge:** Post tutorials, guides, and how-tos to help others.
-- **Engage in Discussions:** Participate in forums and issue trackers to help solve problems and share insights.
-- **Attend Events:** Join our online meetups, workshops, and hackathons to connect with other members and learn new skills.
+- Join Our Projects: Browse our repositories and contribute to ongoing projects or start your own.
+- Share Your Knowledge: Post tutorials, guides, and how-tos to help others.
+- Engage in Discussions: Participate in forums and issue trackers to help solve problems and share insights.
+- Attend Events: Join our online meetups, workshops, and hackathons to connect with other members and learn new skills.
 
 <h2 align="center"> Why Choose Programmer Ninja? </h2>
-- **Community-Driven:** We are a community-first organization, valuing each member's input and fostering a culture of mutual support.
-- **Diverse Expertise:** Benefit from the wide range of expertise within our community, from software development to hardware tinkering and IT troubleshooting.
-- **Resource-Rich:** Access a plethora of resources including code repositories, documentation, and a helpful community ready to assist you.
+- Community-Driven: We are a community-first organization, valuing each member's input and fostering a culture of mutual support.
+- Diverse Expertise: Benefit from the wide range of expertise within our community, from software development to hardware tinkering and IT troubleshooting.
+- Resource-Rich: Access a plethora of resources including code repositories, documentation, and a helpful community ready to assist you.
 
-<h1 align="center"> Connect With Us</h1>
+## Connect With Us
 Stay connected and up-to-date with our latest projects and events:
 - **GitHub:** [Programmer Ninja GitHub](https://github.com/Programmerninja)
 - **Forum:** [Programmer Ninja Forum](#)
