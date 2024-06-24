@@ -17,7 +17,7 @@ At Programmer Ninja, we focus on a variety of tech-related activities, including
 - Dive into the world of microcontrollers and embedded systems.
 - Work on exciting Arduino projects, from simple LED blinkers to complex IoT devices.
 - Share your projects, collaborate on ideas, and learn from others.
-![Arduino Projects](https://github.com/ProgrammerNinja/.github/blob/main/img/AD2.jpg)
+![Arduino Projects](https://github.com/ProgrammerNinja/.github/blob/main/img/AD3.jpg)
 - Hands-On Learning: Get practical experience with sensors, actuators, and various modules to build interactive and functional prototypes.
 - Project Showcases: Display your Arduino creations in our community showcase, and get feedback and suggestions from peers.
 - Workshops and Tutorials: Participate in online workshops and follow step-by-step tutorials designed to help you master the fundamentals and advanced concepts of Arduino programming.
