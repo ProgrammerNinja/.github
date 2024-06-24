@@ -1,7 +1,7 @@
 
 # Welcome to Programmer Ninja by RH
 
-![Programmer Ninja by RH Logo](https://via.placeholder.com/150)
+![Programmer Ninja by RH Logo](https://github.com/ProgrammerNinja/.github/blob/main/img/logo/logo.150x150.png)
 
 ## About Us
 Welcome to **Programmer Ninja by RH**, a vibrant community of hobbyist programmers, tech enthusiasts, and problem solvers. Our organization is dedicated to fostering a collaborative environment where like-minded individuals can explore, learn, and innovate in the world of programming, electronics, and IT troubleshooting.
