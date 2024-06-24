@@ -102,4 +102,4 @@ Stay connected and up-to-date with our latest projects and events:
 - **Forum:** [Programmer Ninja Forum](#)
 - **Social Media:** Follow us on [Twitter](#), [LinkedIn](#), and [Facebook](#) for the latest news and updates.
 
-Join **Programmer Ninja ** today and become part of a dynamic and innovative community where your passion for technology can flourish. Let’s learn, build, and solve problems together!
+Join Programmer Ninja  today and become part of a dynamic and innovative community where your passion for technology can flourish. Let’s learn, build, and solve problems together!
