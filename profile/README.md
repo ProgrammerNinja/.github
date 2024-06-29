@@ -3,7 +3,7 @@
 <div align="center">
 	<img src="https://github.com/ProgrammerNinja/.github/blob/main/img/logo/logo.150x150.png">
 </div>
-<h1 align="center">Welcome to Programmer Ninja by RH</h1>
+<h1 align="center">Welcome to Programmer Ninja by </br> CodeE Space.</h1>
 <h2 align="center"> About Us</h2>
 Welcome to Programmer Ninja by RH, a vibrant community of hobbyist programmers, tech enthusiasts, and problem solvers. Our organization is dedicated to fostering a collaborative environment where like-minded individuals can explore, learn, and innovate in the world of programming, electronics, and IT troubleshooting.
 
